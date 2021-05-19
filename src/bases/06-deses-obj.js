@@ -13,7 +13,7 @@ const persona = {
 // console.log( edad );
 // console.log( clave );
 
-const useContext = ({ clave, nombre, edad, rango = 'Capitán' }) => {
+const usContext = ({ clave, nombre, edad, rango = 'Capitán' }) => {
 
 
     // console.log( nombre, edad, rango );
